@@ -1,2 +1,5 @@
 # Install everything in production env for developpement purposes
 -r prod.txt
+
+# Display database tables in console
+tableprint
