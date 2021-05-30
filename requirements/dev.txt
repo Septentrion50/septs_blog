@@ -1,0 +1,2 @@
+# Install everything in production env for developpement purposes
+-r prod.txt
